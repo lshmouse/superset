@@ -223,6 +223,10 @@ const config: ControlPanelConfig = {
                 ],
                 ['mapbox://styles/mapbox/satellite-v9', t('Satellite')],
                 ['mapbox://styles/mapbox/outdoors-v9', t('Outdoors')],
+                [
+                  'mapbox://styles/shaohui2023/cljycdcfr006601pfd4m4efkp',
+                  'Streets-cn',
+                ],
               ],
               default: 'mapbox://styles/mapbox/light-v9',
               description: t(
